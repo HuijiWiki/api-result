@@ -1,6 +1,6 @@
 {
   "name": "api-result-to-kafka",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Api result",
   "author": {
   	"name" : "Reasno",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/huiji/api-result.git"
+    "url": "git://github.com/HuijiWiki/api-result.git"
   },
   "main": "result.js"
 }
