@@ -1,0 +1,17 @@
+{
+  "name": "api-result-to-kafka",
+  "version": "1.0.7",
+  "description": "Api result",
+  "author": {
+  	"name" : "Reasno",
+  	"email" : "guxi99@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/huiji/api-result.git"
+  },
+  "main": "result.js"
+}
