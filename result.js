@@ -21,7 +21,7 @@ class Result {
 				'app_id': this.parsed['id']
 			},
 			'id' : this.parsed['id'],
-			'dated_date' : {
+			'dated_data' : {
 				'date' : new Date().toISOString().slice(0,10),
 				'data' : this.parsed 
 			}
