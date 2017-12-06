@@ -35,11 +35,11 @@ class Result {
 		Object.keys(work).map( (key, index) => {
 			let slice = key.split('@');
 			if (slice.length > 1){
-				work[slice[0]] = {
+				work[slice[0]] = [{
 					'text' : work[key],
 					'language' : slice[1],
 					'source' : this.source 
-				};
+				}];
 				delete work[key];
 			}
 		} );

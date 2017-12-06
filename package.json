@@ -1,6 +1,6 @@
 {
   "name": "api-result-to-kafka",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Api result",
   "author": {
   	"name" : "Reasno",
